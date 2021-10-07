@@ -1,0 +1,48 @@
+body {
+  background-color: rgb(39, 37, 37);
+  font-size: large;
+}
+
+.number {
+  color: rgb(15 178 15);
+}
+
+.string,
+a {
+  color: rgb(192, 138, 38);
+}
+
+.brace,
+.colon,
+.comma,
+.brack {
+  color: white;
+}
+
+.boolean {
+  color: rgb(194, 4, 250);
+}
+
+.comma {
+  margin-right: 0.5rem;
+}
+
+.colon {
+  margin: 0 0.5rem 0 0.1rem;
+}
+
+.lbrack {
+  margin-right: 0.5rem;
+}
+
+.rbrack {
+  margin-left: 0.5rem;
+}
+
+.key {
+  color: rgb(36, 145, 218);
+}
+
+.null {
+  color: rgb(250, 4, 106);
+}
